@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/repos/!svn/ver/434/scout/BasecampAPI
+END
+Basecamp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/415/scout/BasecampAPI/Basecamp.cs
+END
+BasecampAPI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/434/scout/BasecampAPI/BasecampAPI.dll
+END
+MessageCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/415/scout/BasecampAPI/MessageCategory.cs
+END
+ToDoItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/415/scout/BasecampAPI/ToDoItem.cs
+END
+Message.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/!svn/ver/415/scout/BasecampAPI/Message.cs
+END
+BasecampItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/327/scout/BasecampAPI/BasecampItem.cs
+END
+BasecampAPI.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/327/scout/BasecampAPI/BasecampAPI.sln
+END
+Milestone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/415/scout/BasecampAPI/Milestone.cs
+END
+BasecampAPI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/331/scout/BasecampAPI/BasecampAPI.csproj
+END
+ToDoList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/415/scout/BasecampAPI/ToDoList.cs
+END
+PostSummary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/415/scout/BasecampAPI/PostSummary.cs
+END
+BasecampAPI.suo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/415/scout/BasecampAPI/BasecampAPI.suo
+END
+Company.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/!svn/ver/327/scout/BasecampAPI/Company.cs
+END
+Person.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/!svn/ver/415/scout/BasecampAPI/Person.cs
+END
+Project.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/!svn/ver/434/scout/BasecampAPI/Project.cs
+END
+PostComment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/415/scout/BasecampAPI/PostComment.cs
+END
+Scout.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/!svn/ver/415/scout/BasecampAPI/Scout.exe
+END
